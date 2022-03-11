@@ -1,2 +1,2 @@
 # HOW TO BUILD FOR DEBIAN UBUNTUNE
-sudo apt-get install build-essential libpng-dev zlib1g-dev libsdl2-dev libsdl2-mixer-dev libgme-dev libopenmpt-dev libcurl4-openssl-dev nasm ; git clone https://github.com/STJr/SRB2.git ; cd SRB2 ; make ; cd bin ;wget https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.9/SRB2-v2210-Full.zip ; unzip SRB2-v2210-Full.zip ; rm SRB2-v2210-Full.zip ; ./lsdl2srb2
+sudo apt-get install build-essential libpng-dev zlib1g-dev libsdl2-dev libsdl2-mixer-dev libgme-dev libopenmpt-dev libcurl4-openssl-dev nasm ; git clone https://github.com/STJr/SRB2.git ; cd SRB2 ; make ; cd bin ;wget https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.10/SRB2-v2210-Full.zip ; unzip SRB2-v2210-Full.zip ; rm SRB2-v2210-Full.zip ; ./lsdl2srb2
